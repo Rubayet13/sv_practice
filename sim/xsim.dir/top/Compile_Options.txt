@@ -1,1 +1,0 @@
-"tb" --relax -s "top" --debug "typical" 
