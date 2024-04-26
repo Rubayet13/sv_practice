@@ -1,0 +1,3 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/ruba/sv_practice/data_types/verilog_codes/cla.sv" into library work
+INFO: [VRFC 10-311] analyzing module CarryLookAheadAdder
+INFO: [VRFC 10-311] analyzing module tb
